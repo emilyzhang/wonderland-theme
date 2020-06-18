@@ -1,0 +1,26 @@
+{
+  "name": "wonderland-theme",
+  "displayName": "Wonderland Theme",
+  "description": "simple dark background and lovely cool pastel colors",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "screenshot.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilyzhang/wonderland-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "wonderland-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wonderland-theme-color-theme.json"
+      }
+    ]
+  }
+}
