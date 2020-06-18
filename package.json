@@ -2,6 +2,7 @@
   "name": "wonderland-theme",
   "displayName": "Wonderland Theme",
   "description": "simple dark background and lovely cool pastel colors",
+  "publisher": "mlyzhng",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.46.0"
