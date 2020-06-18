@@ -2,6 +2,10 @@
 
 All notable changes to the "wonderland-theme" extension will be documented in this file.
 
+## v1.0.3
+
+- Make background lighter
+
 ## v1.0.2
 
 - Better warning token colors...again....
