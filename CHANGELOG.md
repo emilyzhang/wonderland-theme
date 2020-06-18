@@ -2,6 +2,10 @@
 
 All notable changes to the "wonderland-theme" extension will be documented in this file.
 
+## v1.0.5
+
+- Make background darker again because I apparently can't make up my mind
+
 ## v1.0.4
 
 - Make background lighter again
